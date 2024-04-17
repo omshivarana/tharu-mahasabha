@@ -1,0 +1,1 @@
+// document.querySelector("#root > div > div.hidden.lg\\:flex.flex-col.top-\\[35\\%\\].left-0.fixed");
